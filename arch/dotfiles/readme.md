@@ -8,8 +8,8 @@ bspwm and sxhkd
 ## runbar
 rofi
 ## browsers
-surf - might be great for easy web browsing vs clunky browsers
-brave? - probably what i'll use for watching youtube etc or when i want things to just work
+surf - might be great for easy web browsing vs clunky browsers  
+brave? - probably what i'll use for watching youtube etc or when i want things to just work  
 
 ## Visual
 ### PDF Reader
