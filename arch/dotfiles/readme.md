@@ -10,6 +10,7 @@ rofi
 ## browsers
 surf - might be great for easy web browsing vs clunky browsers  
 brave? - probably what i'll use for watching youtube etc or when i want things to just work  
+qutebrowser - worth checking out. seems nice and lightweight. could ditch brave if needed then  
 
 ## Visual
 ### PDF Reader
