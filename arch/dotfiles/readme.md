@@ -17,7 +17,7 @@ MPV
 nitrogen
 
 ## other cool stuffs
-cbonsai - makes bonsai trees
-trackma - for tracking anime/manga updates
-cum - pulls manga
-anime-dl - pulls anime
+cbonsai - makes bonsai trees  
+trackma - for tracking anime/manga updates  
+cum - pulls manga  
+anime-dl - pulls anime  
