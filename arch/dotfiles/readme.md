@@ -1,24 +1,22 @@
 # Dotfiles
-gonna post dome dotfile bs in here
+Table of contents for some of the dotfile bs that's chillin here  
 
 ## bar
 Polybar - themes from starred repos - using forest  
 ## WM
-bspwm and sxhkd
+bspwm and sxhkd  
 ## runbar
-rofi
+rofi  
 ## browsers
-surf - might be great for easy web browsing vs clunky browsers  
-brave? - probably what i'll use for watching youtube etc or when i want things to just work  
-qutebrowser - worth checking out. seems nice and lightweight. could ditch brave if needed then  
+qutebrowser - lightweight, works with vim bindings, super easy to use. even renders video on its own (looking at you surf >:/)  
 
 ## Visual
 ### PDF Reader
-zathura - need to upload config
+zathura - need to upload config  
 ### Videos
-MPV
+MPV  
 ### Wallpapers
-nitrogen
+nitrogen  
 
 ## other cool stuffs
 cbonsai - makes bonsai trees  
